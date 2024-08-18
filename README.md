@@ -4,7 +4,7 @@ This course will be provided by Chinese Operating System (OS) is one of the most
 
 # Mini-Coding Project Percentage
 Assignment 1-100/100 <br/>
-Assignment 2-95/100 br/>
+Assignment 2-95/100 <br/>
 Assignment 3-100/100 <br/>
 Assignment 4-30/100 <br/>
 Assignment 5-100/100 <br/>
